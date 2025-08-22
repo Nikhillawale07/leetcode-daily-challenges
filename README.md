@@ -1,32 +1,45 @@
 # 🚀 Daily LeetCode Solutions
 
-![LeetCode Badge](https://img.shields.io/badge/Platform-LeetCode-orange?logo=leetcode&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Language-Java-blue?logo=openjdk&logoColor=white)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/your-github-username/LeetCode-Solutions?color=success)
-![Last Commit](https://img.shields.io/github/last-commit/your-github-username/LeetCode-Solutions?color=yellow)
-
 Welcome to my **Daily LeetCode Solutions** repository!  
-I solve **LeetCode coding problems daily** to improve my **problem-solving skills, data structures & algorithms (DSA)** knowledge, and **coding interview preparation**.
+This repository contains solutions to various **LeetCode coding problems**, which I solve daily to enhance my **problem-solving, algorithmic thinking, and coding skills**.
 
 ---
 
 ## 📌 About
 - **Language Used:** Java (Primary)
 - **Platform:** [LeetCode](https://leetcode.com/)
-- **Goal:** Solve at least **one problem every day**
-- **Purpose:** Strengthen **DSA concepts** and prepare for **top tech interviews**
+- **Purpose:** Consistent practice to strengthen **Data Structures & Algorithms (DSA)** and prepare for **coding interviews**.
+
+---
+## 📅 Progress Tracker
+I solve **at least one problem daily**.  
+Check out my progress [here](https://leetcode.com/your-leetcode-username/).
 
 ---
 
+## 🤝 Contributions
+This is a personal learning repository, but **suggestions and improvements are always welcome**!  
+If you have a better solution, feel free to open a **Pull Request (PR)**.
+
+---
+
+## 📬 Contact
+- **GitHub:** [https://github.com/your-github-username](https://github.com/your-github-username)  
+- **LinkedIn:** [https://linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username)  
+
+---
+
+> **"Consistency is the key to mastery. Keep coding!"**
+
+
+
 ## 🗂️ Repository Structure
-```bash
+
 LeetCode-Solutions/
 │-- Easy/
-│   ├── TwoSum.java
-│   ├── ValidParentheses.java
+│ ├── ProblemName.java
 │-- Medium/
-│   ├── AddTwoNumbers.java
-│   ├── LongestSubstringWithoutRepeatingCharacters.java
+│ ├── ProblemName.java
 │-- Hard/
-│   ├── MedianOfTwoSortedArrays.java
+│ ├── ProblemName.java
 │-- README.md
