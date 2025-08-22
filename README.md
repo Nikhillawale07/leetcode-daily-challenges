@@ -37,9 +37,9 @@ If you have a better solution, feel free to open a **Pull Request (PR)**.
 
 LeetCode-Solutions/
 │-- Easy/
-│ ├── ProblemName.java
+│   ├── ProblemName.java
 │-- Medium/
-│ ├── ProblemName.java
+│   ├── ProblemName.java
 │-- Hard/
-│ ├── ProblemName.java
+│   ├── ProblemName.java
 │-- README.md
