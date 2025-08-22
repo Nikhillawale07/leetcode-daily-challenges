@@ -31,7 +31,7 @@ If you have a better solution, feel free to open a **Pull Request (PR)**.
 
 > **"Consistency is the key to mastery. Keep coding!"**
 
-
+---
 
 ## 🗂️ Repository Structure
 
@@ -43,3 +43,5 @@ LeetCode-Solutions/
 │-- Hard/
 │   ├── ProblemName.java
 │-- README.md
+
+---
