@@ -14,10 +14,10 @@ class Solution {
         
         while (current != null && current.next != null) {
             if (current.val == current.next.val) {
-                // Skip the duplicate node
+             
                 current.next = current.next.next;
             } else {
-                // Move to next node if no duplicate
+           
                 current = current.next;
             }
         }
