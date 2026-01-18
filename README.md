@@ -34,6 +34,8 @@ If you have a better solution or optimization, feel free to open a **Pull Reques
 
 ---
 
+**LeetCode Problems in java**
+
 ## 🗂️ Repository Structure
 
 LeetCode-Solutions/
